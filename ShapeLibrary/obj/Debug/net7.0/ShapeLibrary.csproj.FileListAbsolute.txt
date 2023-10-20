@@ -1,0 +1,12 @@
+D:\LA_Student_Demos\ShapeLibrary\bin\Debug\net7.0\ShapeLibrary.deps.json
+D:\LA_Student_Demos\ShapeLibrary\bin\Debug\net7.0\ShapeLibrary.dll
+D:\LA_Student_Demos\ShapeLibrary\bin\Debug\net7.0\ShapeLibrary.pdb
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.csproj.AssemblyReference.cache
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.AssemblyInfoInputs.cache
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.AssemblyInfo.cs
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.dll
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\refint\ShapeLibrary.dll
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ShapeLibrary.pdb
+D:\LA_Student_Demos\ShapeLibrary\obj\Debug\net7.0\ref\ShapeLibrary.dll
