@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Emp_BusinessLayer/1.0.0": {
+        "dependencies": {
+          "Emp_DataLayer": "1.0.0",
+          "Emp_ModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Emp_BusinessLayer.dll": {}
+        }
+      },
+      "Emp_DataLayer/1.0.0": {
+        "dependencies": {
+          "Emp_ModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Emp_DataLayer.dll": {}
+        }
+      },
+      "Emp_ModelLibrary/1.0.0": {
+        "runtime": {
+          "Emp_ModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Emp_BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emp_DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emp_ModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Emp_BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Emp_DataLayer": "1.0.0",
+          "Emp_ModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Emp_BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Emp_BusinessLayer.dll": {}
+        }
+      },
+      "Emp_DataLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Emp_ModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Emp_DataLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Emp_DataLayer.dll": {}
+        }
+      },
+      "Emp_ModelLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Emp_ModelLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Emp_ModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Emp_BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../Emp_BusinessLayer/Emp_BusinessLayer.csproj",
+      "msbuildProject": "../Emp_BusinessLayer/Emp_BusinessLayer.csproj"
+    },
+    "Emp_DataLayer/1.0.0": {
+      "type": "project",
+      "path": "../Emp_DataLayer/Emp_DataLayer.csproj",
+      "msbuildProject": "../Emp_DataLayer/Emp_DataLayer.csproj"
+    },
+    "Emp_ModelLibrary/1.0.0": {
+      "type": "project",
+      "path": "../Emp_ModelLibrary/Emp_ModelLibrary.csproj",
+      "msbuildProject": "../Emp_ModelLibrary/Emp_ModelLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Emp_BusinessLayer >= 1.0.0",
+      "Emp_ModelLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\LTI_Student_Demos\\Emp_PresentationLayer\\Emp_PresentationLayer.csproj",
+      "projectName": "Emp_PresentationLayer",
+      "projectPath": "D:\\LTI_Student_Demos\\Emp_PresentationLayer\\Emp_PresentationLayer.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\LTI_Student_Demos\\Emp_PresentationLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\LTI_Student_Demos\\Emp_BusinessLayer\\Emp_BusinessLayer.csproj": {
+              "projectPath": "D:\\LTI_Student_Demos\\Emp_BusinessLayer\\Emp_BusinessLayer.csproj"
+            },
+            "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {
+              "projectPath": "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

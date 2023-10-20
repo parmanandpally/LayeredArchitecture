@@ -1,0 +1,15 @@
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.csproj.AssemblyReference.cache
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.AssemblyInfoInputs.cache
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.AssemblyInfo.cs
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.csproj.CoreCompileInputs.cache
+D:\LTI_Student_Demos\Emp_DataLayer\bin\Debug\net7.0\Emp_DataLayer.deps.json
+D:\LTI_Student_Demos\Emp_DataLayer\bin\Debug\net7.0\Emp_DataLayer.dll
+D:\LTI_Student_Demos\Emp_DataLayer\bin\Debug\net7.0\Emp_DataLayer.pdb
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.dll
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\refint\Emp_DataLayer.dll
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.pdb
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\ref\Emp_DataLayer.dll
+D:\LTI_Student_Demos\Emp_DataLayer\bin\Debug\net7.0\Emp_ModelLibrary.dll
+D:\LTI_Student_Demos\Emp_DataLayer\bin\Debug\net7.0\Emp_ModelLibrary.pdb
+D:\LTI_Student_Demos\Emp_DataLayer\obj\Debug\net7.0\Emp_DataLayer.csproj.CopyComplete

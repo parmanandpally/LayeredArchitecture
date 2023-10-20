@@ -1,0 +1,12 @@
+D:\LTI_Student_Demos\Emp_ModelLibrary\bin\Debug\net7.0\Emp_ModelLibrary.deps.json
+D:\LTI_Student_Demos\Emp_ModelLibrary\bin\Debug\net7.0\Emp_ModelLibrary.dll
+D:\LTI_Student_Demos\Emp_ModelLibrary\bin\Debug\net7.0\Emp_ModelLibrary.pdb
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.csproj.AssemblyReference.cache
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.AssemblyInfoInputs.cache
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.AssemblyInfo.cs
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.csproj.CoreCompileInputs.cache
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.dll
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\refint\Emp_ModelLibrary.dll
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\Emp_ModelLibrary.pdb
+D:\LTI_Student_Demos\Emp_ModelLibrary\obj\Debug\net7.0\ref\Emp_ModelLibrary.dll
