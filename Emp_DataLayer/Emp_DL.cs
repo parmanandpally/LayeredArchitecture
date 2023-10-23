@@ -14,15 +14,16 @@ namespace Emp_DataLayer
         }
         public Employee SearchEmployee(int empid)
         {
-            Employee emp=empList.Find(e=>e.EmployeeId==empid);
+            Employee? emp=empList.Find(e=>e.EmployeeId==empid);
             if (emp!=null)
                 return emp;
             else
                 return null;
+                
         }
         public bool DeleteEmployee(int empid)
         {
-            Employee emp = empList.Find(e=>e.EmployeeId==empid);
+            Employee? emp = empList.Find(e=>e.EmployeeId==empid);
             if (emp!=null)
             {
                 empList.Remove(emp);
@@ -33,7 +34,7 @@ namespace Emp_DataLayer
         }
         public bool EditEmployee(int empid, Employee newEmp)
         {
-            Employee emp = empList.Find(e=>e.EmployeeId==empid);
+            Employee? emp = empList.Find(e=>e.EmployeeId==empid);
             if (emp!=null)
             {
                 emp.EmployeeName=newEmp.EmployeeName;

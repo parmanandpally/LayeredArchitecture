@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {}
+    "D:\\LA_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {}
   },
   "projects": {
-    "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {
+    "D:\\LA_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj",
+        "projectUniqueName": "D:\\LA_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj",
         "projectName": "Emp_ModelLibrary",
-        "projectPath": "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj",
+        "projectPath": "D:\\LA_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\obj\\",
+        "outputPath": "D:\\LA_Student_Demos\\Emp_ModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

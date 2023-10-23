@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTI_Student_Demos\\Emp_DataLayer\\Emp_DataLayer.csproj",
+      "projectUniqueName": "D:\\LA_Student_Demos\\Emp_DataLayer\\Emp_DataLayer.csproj",
       "projectName": "Emp_DataLayer",
-      "projectPath": "D:\\LTI_Student_Demos\\Emp_DataLayer\\Emp_DataLayer.csproj",
+      "projectPath": "D:\\LA_Student_Demos\\Emp_DataLayer\\Emp_DataLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\LTI_Student_Demos\\Emp_DataLayer\\obj\\",
+      "outputPath": "D:\\LA_Student_Demos\\Emp_DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {
-              "projectPath": "D:\\LTI_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj"
+            "D:\\LA_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj": {
+              "projectPath": "D:\\LA_Student_Demos\\Emp_ModelLibrary\\Emp_ModelLibrary.csproj"
             }
           }
         }
