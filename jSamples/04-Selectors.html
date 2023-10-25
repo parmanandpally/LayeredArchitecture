@@ -1,0 +1,36 @@
+<head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<style>
+    .pStyle {color:red;}
+</style>
+    <script>
+$(document).ready(function() {
+    $("#btn1").click(function() {
+        $("#p1").css("font-family","arial");	//ID Selector
+    });
+
+    $("#btn2").click(function(){		
+        $("p").css("font-family","arial");		// Element Selector
+    });
+    $("#btn3").click(function(){
+        $(".pStyle").css("font-family","arial");	// Class Selector
+    });
+    $("#btn4").click(function(){
+        $("*").css("font-family","arial");		// Universal Selector
+    });
+});
+</script>
+</head>
+<body>
+    <p  class="pStyle" id="p1">Paragraph 1 - Welcome to HTML</p>
+    <p class="pStyle">Paragraph 2 - Welcome to CSS</p>
+    <p >Paragraph 3 - Welcome to jQuery</p>
+    <p class="pStyle">Paragraph 4 - Welcome to Bootstrap</p>
+    <div>Div Tag 1</div>
+    <h1>Heading 1</h1>
+    <a href="#">Home Page</a><br/><br/>
+    <input type="button" id="btn1" value="ID Selector"/>
+    <input type="button" id="btn2" value="Element Selector"/>
+    <input type="button" id="btn3" value="Class Selector"/>
+    <input type="button" id="btn4" value="Universal Selector"/>
+</body>

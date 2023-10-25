@@ -1,0 +1,55 @@
+<html> 
+<head>
+   <head>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>      
+</head>
+ 
+<body> 
+   <script>
+$(document).ready(function() {
+   alert("Welcome");
+
+   $("#btnHide").click(function() {
+      $("#img1").hide(1000);
+   });
+
+   $("#btnShow").click(function() {
+      $("#img1").show(1000);
+   });
+
+   $("#btnToggle").click(function() {
+      $("#img1").toggle(1000);
+   });
+
+   $("#btnFadeIn").click(function() {
+      $("#img1").fadeIn(1000);
+   });
+
+   $("#btnFadeOut").click(function() {
+      $("#img1").fadeOut(1000);
+   });
+
+   $("#btnSlideUp").click(function() {
+      $("#img1").slideUp("slow","swing");
+   });
+
+   $("#btnSlideDown").click(function() {
+      $("#img1").slideDown(1000);
+   });
+});
+</script>
+<body>
+   <input type="button" id="btnShow" value="Show" />
+   <input type="button" id="btnHide" value="Hide"  />
+   <input type="button" id="btnFadeOut" value="Fade Out"  />
+   <input type="button" id="btnSlideUp" value="Slide Up" />
+   <input type="button" id="btnSlideDown" value="Slide Down" />
+   <br />
+   <br />
+<div>
+   <img src="smartphone.jpg" id="img1" height="300px" width="450px" />
+</div>
+
+</body> 
+  
+</html> 
